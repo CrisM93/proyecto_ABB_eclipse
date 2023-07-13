@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 
 public class Principal {
-//By Cristian 
+//By Cristian Martinez
 	public static void main(String[] args) {
 		new VentanaABB("Arbol Binario de Busqueda");
 		/*LinkedList<Integer> c = new LinkedList <Integer> ();
