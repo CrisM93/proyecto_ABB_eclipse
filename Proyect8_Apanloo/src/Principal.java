@@ -4,7 +4,7 @@ import java.util.LinkedList;
 public class Principal {
 
 	public static void main(String[] args) {
-		new VentanaABB("Arbol Binario de Busqueda");
+		new VentanaABB("Arbol Binario deBusqueda");
 		/*LinkedList<Integer> c = new LinkedList <Integer> ();
 		
 		//SE AGREGAN ELEMENTOS EN LA COLA DE ARBOLES
